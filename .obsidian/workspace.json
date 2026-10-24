@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "79d832589c64d4f2",
+        "id": "5f3a06dd604dd0de",
         "type": "tabs",
         "children": [
           {
-            "id": "5e01d0ee9e4d08a0",
+            "id": "be80b05050196daf",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名.base",
-                "viewName": "视图"
+                "file": "Hello World!.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "Hello World!"
             }
           }
         ]
@@ -195,8 +196,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e01d0ee9e4d08a0",
+  "active": "be80b05050196daf",
   "lastOpenFiles": [
-    "未命名.base"
+    "未命名.base",
+    "Hello World!.md"
   ]
 }
