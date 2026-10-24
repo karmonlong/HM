@@ -22,7 +22,7 @@
   "rebaseAutoStash": "enabled",
   "mergeStrategy": "none",
   "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": false,
+  "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "gitServerPasswordSecret": "",
   "refreshSourceControl": true,
